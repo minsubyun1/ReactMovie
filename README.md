@@ -17,7 +17,7 @@
   <li>영화 API 데이터 중 ID를 통해 해당 영화 제목을 클릭할시 영화에 대한 세부 정보 제공</li>
   <img src="https://user-images.githubusercontent.com/75060858/151604749-8ca25098-fbce-48d2-8f18-6ca0b5d6399a.gif"></img>
   <li>미디어 쿼리를 이용하여 반응형 웹 구축</li>
-  <div><img src="https://user-images.githubusercontent.com/75060858/151604258-3da2a809-b353-49e6-a19b-c29d9953e171.JPG" width="300" height="300" ></img><img src="https://user-images.githubusercontent.com/75060858/151606378-6ffcec39-6741-4f2e-8928-3410f9dec54d.png" width="300" height="300"></img></div>
+  <div><img src="https://user-images.githubusercontent.com/75060858/151604258-3da2a809-b353-49e6-a19b-c29d9953e171.JPG" width="300" height="300" ></img><img src="https://user-images.githubusercontent.com/75060858/151604911-5602eead-ec6d-40c2-a040-0cba0b530e1e.JPG" width="300" height="300"></img></div>
 
 <h1>개선 사항</h1>
 <li>CSS 파일 따로 만들지 않고 React에 styled components와 useState를 통해 반응형 구축과 더불어 헤더 토글 버튼 기능까지 개선 필요</li>
