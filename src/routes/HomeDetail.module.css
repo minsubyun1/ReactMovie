@@ -7,8 +7,9 @@
     justify-content: center;
     align-items: center;
     font-weight: 300;
-    margin-left: 480px;
+    margin-left: 450px;
     color:black;
+    overflow: hidden;
 }
   
 .movies {
@@ -99,7 +100,17 @@
     }
     
 }
+@media screen and (min-width:1488px){
+   .container{
+     height:100%;
+     display: flex;
+   }
+}
 @media screen and (min-width:1350px) and (max-width:1488px){
+  .container{
+    height:100%;
+    display: flex;
+  }
   .loader{
     margin-left: 440px;
   }
@@ -120,6 +131,10 @@
   }
 }
 @media screen and (min-width:1280px)and (max-width:1350px){
+  .container{
+    height:100%;
+    display: flex;
+  }
   .loader{
     margin-left: 400px;
   }
@@ -141,6 +156,10 @@
 }
 
 @media screen and (min-width:1150px) and (max-width:1280px){
+  .container{
+    height:100%;
+    display: flex;
+  }
   .loader{
     margin-left: 340px;
   }
@@ -170,6 +189,10 @@
   }
 }
 @media screen and (min-width:992px) and (max-width:1149px){
+  .container{
+    height:100%;
+    display: flex;
+  }
   .loader{
     margin-left: 320px;
   }
@@ -199,9 +222,12 @@
   }
 }
 @media screen and (min-width:768px) and (max-width:992px){
+  .container{
+    height:100%;
+    display: flex;
+  }
   .loader{
-    margin-left: 270px;
-    position: absolute;
+    margin-left: 220px;
   }
   .nav{
     width:100%;
@@ -230,9 +256,9 @@
   
   
 }
-@media screen and (min-width:500px) and (max-width:805px){
+@media screen and (min-width:500px) and (max-width:767px){
   .loader{
-    margin-left: 230px;
+    margin-left: 10px;
     
   }
   .nav{
@@ -275,8 +301,9 @@
   }
 }
 @media screen and (min-width:300px) and (max-width:500px){
+  
   .loader{
-    margin-left: 130px;
+    margin-left: 0px;
   }
   .nav{
     width:100%;
