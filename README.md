@@ -19,6 +19,7 @@
   <br/>
   <img src="https://user-images.githubusercontent.com/75060858/151604749-8ca25098-fbce-48d2-8f18-6ca0b5d6399a.gif"></img>
   <li>미디어 쿼리를 이용하여 반응형 웹 구축</li>
+  <br/>
   <div><img src="https://user-images.githubusercontent.com/75060858/151604258-3da2a809-b353-49e6-a19b-c29d9953e171.JPG" width="300" height="300" ></img><img src="https://user-images.githubusercontent.com/75060858/151604911-5602eead-ec6d-40c2-a040-0cba0b530e1e.JPG" width="300" height="300"></img></div>
 
 <h1>개선 사항</h1>
