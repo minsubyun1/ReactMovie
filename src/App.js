@@ -13,11 +13,11 @@ function App() {
   return(
     <Router basename={process.env.PUBLIC_URL}>
       <Routes>
-        <Route path={process.env.PUBLIC_URL + "/movie/:id"} element={<Detail />}/>
-        <Route path = {process.env.PUBLIC_URL + "/"} element={<Home />} />
-        <Route path = {process.env.PUBLIC_URL + "romance/"} element={<Love />}/>
-        <Route path = {process.env.PUBLIC_URL + "thriller/"} element={<Horror />}/>
-        <Route path = {process.env.PUBLIC_URL + "Animation/"} element={<Ani />}/>
+        <Route path="/movie/:id" element={<Detail />}/>
+        <Route path = "/" element={<Home />} />
+        <Route path = "/romance" element={<Love />}/>
+        <Route path = "/thriller" element={<Horror />}/>
+        <Route path = "/Animation" element={<Ani />}/>
       </Routes>
     </Router>
   );

@@ -1,5 +1,5 @@
 import {useState} from "react";
-import { useEffect } from "react/cjs/react.development";
+import { useEffect } from "react";
 import styles from "./Home.module.css";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faInstagram} from "@fortawesome/free-brands-svg-icons";
@@ -25,19 +25,8 @@ function Ani(){
       
       <div className={styles.container}>
       {loading ? (
-        <div>
-          <div className={styles.nav}>
-            <div className={styles.nav_title}>SUBFLIX </div>
-            <div className={styles.nav_menu}>
-              <div className={styles.nav_homme}> HOME </div>
-              <div className={styles.nav_action}>ROMANCE  </div>
-              <div className={styles.nav_romance}> THRILLER </div>
-              <div className={styles.nav_animation}>ANIMATION</div>
-              <div className = {styles.nav_icon}><FontAwesomeIcon icon={faSearch} /></div>
-              <div className = {styles.nav_bell}><FontAwesomeIcon  icon={faBell}/></div>
-              <div className = {styles.nav_insta}><FontAwesomeIcon  icon={faInstagram}/></div>
-            </div>       
-        </div>
+        <div>      
+        
           <div className={styles.loader}>
             <span>Loading...</span>
           </div>
