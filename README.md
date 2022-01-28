@@ -1,3 +1,3 @@
-![reactmovie 1](https://user-images.githubusercontent.com/75060858/151600451-06a5f740-ca16-4044-a04b-32d3354a5c9d.JPG)
+![reactmovie header](https://user-images.githubusercontent.com/75060858/151602006-3bd9e5d0-e8ca-4461-8c40-d082f9ae04ea.JPG)
 
 <li> Demo:https://minsubyun1.github.io/ReactMovie/</li>
