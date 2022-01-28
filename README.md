@@ -15,6 +15,6 @@
  <h1>Advanced Feature</h1>
   <li>API 조건을 통해 페이지마다 별점, 장르별로 정보를 제공</li>
   <li>영화 API 데이터 중 ID를 통해 해당 영화 제목을 클릭할시 영화에 대한 세부 정보 제공</li>
-  <img src="https://user-images.githubusercontent.com/75060858/151604258-3da2a809-b353-49e6-a19b-c29d9953e171.JPG"></img>
+  <img src="https://user-images.githubusercontent.com/75060858/151604258-3da2a809-b353-49e6-a19b-c29d9953e171.JPG" width="100" height="100" ></img>
 
   <li>미디어 쿼리를 이용하여 반응형 웹 구축</li>
