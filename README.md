@@ -13,7 +13,7 @@
   <li>Media Query</li>
  
  <h1>Advanced Feature</h1>
- 
+  <br>
   <li>API 조건을 통해 페이지마다 별점, 장르별로 정보를 제공</li>
   <li>영화 API 데이터 중 ID를 통해 해당 영화 제목을 클릭할시 영화에 대한 세부 정보 제공</li>
   <img src="https://user-images.githubusercontent.com/75060858/151604749-8ca25098-fbce-48d2-8f18-6ca0b5d6399a.gif"></img>
