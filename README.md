@@ -3,9 +3,9 @@
 <li> Demo:https://minsubyun1.github.io/ReactMovie/</li>
 <h1>개발 목표</h1>
 <p>React 전반에 대한 기본적 이해 및 학습. 미디어쿼리 활용하여 반응형 웹으로 구축.</p>
-<h1>애플리케이션 소개<h1>
+<h1>애플리케이션 소개</h1>
   <p>영화 정보가 담긴 API fecth를 통해 영화 정보를 시각적으로 이쁘고 편리하게 전달하는 영화 정보 웹앱</p>
-<h1>사용 기술<h1>
+<h1>사용 기술</h1>
   <li>HTML</li>
   <li>CSS</li>
   <li>Java Script</li>
